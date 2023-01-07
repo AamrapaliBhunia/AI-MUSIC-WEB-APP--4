@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    color: rgb(242, 231, 232);
+}
+
+.note{
+    font-size: 17px;
+    color: rgb(14, 1, 1);
+}
+
+.button_1{
+
+    margin-top: 05px;
+    margin-bottom: 05px;
+    float: bottom;
+    color: blanchedalmond;
+    font-size: 20px;
+    border-radius: 18px;
+    box-shadow: 10px 10px 10px rgb(115, 3, 50);
+}
+
+
+
+canvas
+{
+    box-shadow: 10px 10px 10px #62ba0a;
+    margin-top: 85px;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+
+}
